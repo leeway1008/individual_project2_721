@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.vscode
+
+
 
 # C extensions
 *.so
@@ -59,7 +62,10 @@ coverage.xml
 *.log
 local_settings.py
 db.sqlite3
+<<<<<<< HEAD
 db.sqlite3-journal
+=======
+>>>>>>> 8c1e3ef38e7104751633f6353d88d34ca4ee7ec6
 
 # Flask stuff:
 instance/
