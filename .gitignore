@@ -63,9 +63,13 @@ coverage.xml
 local_settings.py
 db.sqlite3
 <<<<<<< HEAD
+<<<<<<< HEAD
 db.sqlite3-journal
 =======
 >>>>>>> 8c1e3ef38e7104751633f6353d88d34ca4ee7ec6
+=======
+db.sqlite3-journal
+>>>>>>> ca6270274d5d3f50092a05af3fdafe1aee1aeda3
 
 # Flask stuff:
 instance/
